@@ -1108,5 +1108,6 @@ async def webhookinfo(ctx, webhook_url: str = None):
     await ctx.send(embed=embed)
 
 
-bot.run('')
+bot.run('') # <-- add your bot token here
+
 
