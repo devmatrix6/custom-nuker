@@ -2,7 +2,7 @@
 
 2. Run nuker.py
 
-3. use atomantinuke command to Run Nuke and atomhelp command to lsit all commands
+3. use atomantinuke command to Run Nuke and atomhelp command to list all commands
 
 
 Note: It Kicks All Members of The Server, Deletes all Channels, Create New Channels and 
